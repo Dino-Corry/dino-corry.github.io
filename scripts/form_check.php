@@ -115,7 +115,7 @@ function checkSupport()
 		}  
 		else
 		{
-			$sent = mail("recipient@example.com", "Hi", "test message", "From: sender@example.com");
+			$sent = mail("essen653@gmail.com", "Hi", "test message", "From: sender@example.com");
 			if($sent)
 			{
 				$response .='Mail:0;';
